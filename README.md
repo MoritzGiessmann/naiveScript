@@ -10,6 +10,10 @@ To get it running check out the repository and type
 3. Don't use this!
 4. Use this on your own risk!
 
+## FAQ
+Q: Isn't this sarcasm?
+A: Yes'nt!
+
 ```
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
